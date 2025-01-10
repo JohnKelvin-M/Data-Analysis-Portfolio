@@ -1,0 +1,1 @@
+This directory is dedicated to showcasing my Excel projects, where I use spreadsheets to analyze, visualize, and draw insights from data. Each project highlights my expertise in leveraging Excel for data analysis, including data cleaning, pivot tables, advanced formulas, and chart creation.
